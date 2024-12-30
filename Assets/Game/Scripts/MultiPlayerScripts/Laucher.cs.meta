@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f5492024f663478429ed0fb310dcbecf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roomNameInputField: {instanceID: 0}
+  - roomNameText: {instanceID: 0}
+  - errorText: {instanceID: 0}
+  - roomListContent: {instanceID: 0}
+  - roomListItemPrefab: {fileID: 1705730713192110838, guid: c230d9a7e9997ad4899c0281595e141c,
+      type: 3}
+  - playerListContent: {instanceID: 0}
+  - playerListItemPrefab: {fileID: 1223240717500571759, guid: 0399b4a0e2352b74f81775506765f62d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
